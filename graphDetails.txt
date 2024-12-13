@@ -1,0 +1,9 @@
+Number of nodes: 6
+Nodes: [B, C, F, A, D, E]
+Number of edges: 5
+Edges:
+A -> B
+A -> C
+B -> D
+C -> E
+D -> E
