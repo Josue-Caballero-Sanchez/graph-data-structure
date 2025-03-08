@@ -1,6 +1,9 @@
 # graph-data-structure
 
-This project implements a graph data structure using JGraphT and Graphviz for visualization. It includes functionalities to create, modify, and query graphs as well as export them to DOT format and PNG images.
+This project implements a graph data structure using JGraphT and Graphviz for visualization. It includes functionalities to create, modify, and query graphs as well as export them to DOT format and PNG images. The program can also search through the graph using breadth first search or depth first search.
+
+![ouput1](java-output.png)
+![ouput2](JUnit-tests.png)
 
 ## Features
 1. Graph Representation: Uses DirectedMultigraph from JGraphT to represent directed graphs.
