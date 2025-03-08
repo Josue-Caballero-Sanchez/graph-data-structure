@@ -2,6 +2,8 @@
 
 This project implements a graph data structure using JGraphT and Graphviz for visualization. It includes functionalities to create, modify, and query graphs as well as export them to DOT format and PNG images. The program can also search through the graph using breadth first search or depth first search.
 
+### **[Download Project](https://github.com/Josue-Caballero-Sanchez/graph-data-structure/archive/refs/heads/master.zip)**
+
 ![ouput1](java-output.png)
 ![ouput2](JUnit-tests.png)
 
