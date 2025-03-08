@@ -5,6 +5,11 @@ This project implements a graph data structure using JGraphT and Graphviz for vi
 ![ouput1](java-output.png)
 ![ouput2](JUnit-tests.png)
 
+## Built with
+
+- Java
+- JUnit
+
 ## Features
 1. Graph Representation: Uses DirectedMultigraph from JGraphT to represent directed graphs.
 2. Graph Parsing: Parses a DOT file to create a graph structure.
